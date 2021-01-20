@@ -1,0 +1,2 @@
+# twitter_wordcloud_web
+twitter_apiより連携・投稿を取得・wordcloud化・Web上で閲覧・twitterに投稿するアプリ
