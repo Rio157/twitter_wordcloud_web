@@ -1,4 +1,4 @@
-# [未完成] twitter_wordcloud_web
+# twitter_wordcloud_web
 twitter_apiを用いて、
 連携・投稿を取得・wordcloud化・Web上で閲覧・twitterに投稿するアプリ
 
@@ -10,7 +10,7 @@ twitter_apiを用いて、
 - twitter連携ボタンの作成
 
 ### もう少しやりたかったこと
-- twitterの投稿期間の入力
+- twitterの投稿取得期間の入力
 - Timelineに画像を載せる
 - twitterにwordcloudの処理結果を投稿する
 - stopwordsにて、一般的すぎる語（文脈に依存しない語）をカットする
