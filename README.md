@@ -15,6 +15,7 @@ twitter_apiを用いて、
 - twitterにwordcloudの処理結果を投稿する
 - stopwordsにて、一般的すぎる語（文脈に依存しない語）をカットする
 
+# 参考画像
 
 ## 初期画面
 <img src="https://user-images.githubusercontent.com/52499324/105167093-9e3ecf00-5b5b-11eb-83ea-c1ac82266ca1.png" width=50%>
